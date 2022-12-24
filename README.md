@@ -1,5 +1,5 @@
 # Trabalho Final de Automação - 19/11/21
-Trabalho Final da Matéria de Automação Industrial - UFSCar
+Trabalho Final de uma disciplina de Automação da faculdade.
 
 O trabalho consiste em efetuar operações em um banco de dados de SQL que contém 5 silos para estoque de produtos, devemos poder, através do código, adicionar produtos a cada um desses silos ou remove-los, utilizando somente do nome do produto e do código de barras do silo.
 
