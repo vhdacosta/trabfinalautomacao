@@ -1,7 +1,4 @@
 #Trabalho Final de Automação Industrial
-#Autores:
-#Luís Felipe Santos Jesus - 770310
-#Victor Hugo
 
 import mysql.connector
 from prettytable import PrettyTable
